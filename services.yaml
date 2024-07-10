@@ -1,0 +1,5 @@
+services:
+  Frontend: https://google.com
+  Backend: https://youtube.com
+  Payment: https://paypal.com
+  API_Gateway: https://gmail.com
