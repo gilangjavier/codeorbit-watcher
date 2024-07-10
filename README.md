@@ -52,11 +52,22 @@ CodeOrbit - Watcher is a Discord bot that monitors the status of specified servi
 
 ## Usage
 
-Run the bot with the following command:
+1. Run the bot with the following command:
 
-```sh
-python bot.py
-```
+    ```sh
+    python bot.py
+    ```
+
+2. Once the bot is running, you can use the following commands in your Discord server:
+
+    - `/check_status`:
+      Checks the status of all services and displays the information in an embed message.
+
+    - `/notification active`:
+      Activates periodic notifications about the status of the services.
+
+    - `/notification disable`:
+      Disables periodic notifications about the status of the services.
 
 ## Create a docker-compose.yml file in the project directory:
 
