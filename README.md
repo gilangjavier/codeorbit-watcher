@@ -17,12 +17,7 @@ CodeOrbit - Watcher is a Discord bot that monitors the status of specified servi
 
 ## Installation
 
-1. Clone this repository:
-
-    ```sh
-    git clone https://github.com/username/repo-name.git
-    cd repo-name
-    ```
+1. Clone this repository
 
 2. Create and activate a virtual environment:
 
@@ -104,5 +99,5 @@ This will build and run the bot in a Docker container.
 ## Contribution
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
-License
+## License
 This project is licensed under the MIT License.
